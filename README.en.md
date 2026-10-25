@@ -4,21 +4,23 @@
 
 [简体中文](https://github.com/myflww/myflww/blob/main/README.md) · [English](https://github.com/myflww/myflww/blob/main/README.en.md)
 
-I’m building **Luma Companion**, exploring how AI-assisted workflows and character companionship can fit into everyday desktop use.
+I focus on desktop AI applications and character companionship. **Luma Companion** is my long-term project, bringing a task workspace, character conversations, and desktop companions into one application.
 
-## Current project
+## Project
 
 ### Luma Companion
 
-[Project and download status](https://github.com/myflww/luma-companion-releases) · **In development; downloads are not available yet**
+[![Luma Companion: work, creation, and character companionship](https://raw.githubusercontent.com/myflww/luma-companion-releases/main/assets/promo/hero-ensemble.png)](https://github.com/myflww/luma-companion-releases)
 
-Luma is a desktop software project organized around real tasks and character companionship. I want its AI workspace, desktop pets, and virtual office to work together in one desktop experience.
+[Project](https://github.com/myflww/luma-companion-releases) · [User guide](https://github.com/myflww/luma-companion-releases/blob/main/docs/USER_GUIDE.en.md) · [Get a version](https://github.com/myflww/luma-companion-releases/blob/main/DOWNLOADS.md)
+
+Luma organizes the desktop experience around real tasks and character companionship, connecting an AI workspace, desktop pets, and a virtual office.
 
 - **Tasks and workspace:** task-centered interactions that connect AI execution with local applications.
 - **Characters and scenes:** desktop pets, a virtual office, and character interactions.
 - **Creation and extensions:** canvas and theater modules, with a companion website and self-hosted services.
 
-The project is in active development. Each module tracks its own implementation and delivery status. Core source code is maintained in a private repository; this profile shares the project’s direction and progress.
+Core source code is maintained in a private repository. The public project page provides an introduction, user guides, licensing information, and version access.
 
 ## Technologies used in the project
 

@@ -1,14 +1,16 @@
 # 你好，我是 myflww 👋
 
-正在开发 **Luma Companion**，探索如何把 AI 任务协作与角色陪伴融入日常桌面。
+**独立开发者 · AI 桌面应用与角色陪伴产品探索**
 
-> Building Luma Companion — a desktop workspace for AI-assisted tasks and character companionship.
+[简体中文](https://github.com/myflww/myflww/blob/main/README.md) · [English](https://github.com/myflww/myflww/blob/main/README.en.md)
+
+正在开发 **Luma Companion**，探索如何把 AI 任务协作与角色陪伴融入日常桌面。
 
 ## 正在做的项目
 
 ### Luma Companion
 
-Luma 是围绕真实任务与角色陪伴组织的桌面软件项目。希望让 AI 工作台、桌宠和虚拟办公室在同一个桌面体验里协同工作。
+Luma 是围绕真实任务与角色陪伴组织的桌面软件项目。我希望让 AI 工作台、桌宠和虚拟办公室在同一个桌面体验里协同工作。
 
 - **任务与工作台**：围绕任务组织交互，连接 AI 执行能力与本机应用。
 - **角色与场景**：桌宠、虚拟办公室与角色互动。
@@ -28,6 +30,10 @@ Luma 是围绕真实任务与角色陪伴组织的桌面软件项目。希望让
 
 AI 桌面应用、任务协作、角色陪伴，以及能在日常使用中持续打磨的软件体验。
 
+## 业务联系
+
+项目交流与业务合作：[1805680363@qq.com](mailto:1805680363@qq.com)
+
 ---
 
-**English** · I am building Luma Companion, combining AI-assisted workflows with desktop pets and virtual office experiences. The project is in active development; its source is maintained privately.
+Read the [English introduction](https://github.com/myflww/myflww/blob/main/README.en.md).

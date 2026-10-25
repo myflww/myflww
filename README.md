@@ -10,6 +10,8 @@
 
 ### Luma Companion
 
+[项目介绍与下载准备](https://github.com/myflww/luma-companion-releases) · **开发中，尚未开放下载**
+
 Luma 是围绕真实任务与角色陪伴组织的桌面软件项目。我希望让 AI 工作台、桌宠和虚拟办公室在同一个桌面体验里协同工作。
 
 - **任务与工作台**：围绕任务组织交互，连接 AI 执行能力与本机应用。

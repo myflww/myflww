@@ -10,6 +10,8 @@ I’m building **Luma Companion**, exploring how AI-assisted workflows and chara
 
 ### Luma Companion
 
+[Project and download status](https://github.com/myflww/luma-companion-releases) · **In development; downloads are not available yet**
+
 Luma is a desktop software project organized around real tasks and character companionship. I want its AI workspace, desktop pets, and virtual office to work together in one desktop experience.
 
 - **Tasks and workspace:** task-centered interactions that connect AI execution with local applications.
